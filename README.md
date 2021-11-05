@@ -12,3 +12,4 @@ maintaining acceptance criteria throughout.
 Refer [ShopOnn](https://app.powerbi.com/groups/me/reports/1a33b736-f01a-4a38-b1ee-cde75702cb76/ReportSection)
 
 
+![dashboard](https://user-images.githubusercontent.com/40695609/140509189-2bd21fd4-c521-4a37-a98e-e573a8b9bea6.png)
